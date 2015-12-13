@@ -1,0 +1,13 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+# Build results
+GithubNotifier/bin
+GithubNotifier/obj
+
+# Visual Studio Options
+.vs/
